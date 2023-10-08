@@ -1,0 +1,5 @@
+.footer{
+    width: 100%;
+    height: calc(100vh - 500px);
+    background-color: rgb(170, 214, 23);
+}
